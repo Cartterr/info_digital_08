@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 464.4 415.7" style="enable-background:new 0 0 464.4 415.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:1;}
+	.st2{fill:#231F20;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:14px;}
+	.st5{fill:#77787B;}
+	.st6{letter-spacing:-1;}
+</style>
+<image style="overflow:visible;enable-background:new    ;" width="1920" height="926" xlink:href="time-hkg.png"  transform="matrix(0.5 0 0 0.5 -495.6242 -35.3472)">
+</image>
+<path class="st1" d="M189.1,259.6c-1.2-6.1-7-10.1-13.1-9.1"/>
+<polygon points="190.7,257.5 190.2,257.2 189,259.4 187,258.1 186.7,258.5 189.2,260.1 "/>
+<path class="st0" d="M210.8,95.2c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C213.3,96.3,212.1,95.2,210.8,95.2"/>
+<path class="st0" d="M252.9,239.3c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C255.4,240.4,254.3,239.3,252.9,239.3
+	C252.9,239.3,252.9,239.3,252.9,239.3"/>
+<path class="st0" d="M81.6,336.8c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C84.1,337.9,82.9,336.8,81.6,336.8"/>
+<path class="st0" d="M297.1,119.7c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C299.6,120.8,298.5,119.7,297.1,119.7
+	C297.1,119.7,297.1,119.7,297.1,119.7"/>
+<text transform="matrix(1 0 0 1 216.1558 102.4728)" class="st2 st3 st4">Beijing</text>
+<text transform="matrix(1 0 0 1 407.1558 145.6828)" class="st5 st3 st4 st6">T</text>
+<text transform="matrix(1 0 0 1 414.1558 145.6828)" class="st5 st3 st4">okio</text>
+<text transform="matrix(1 0 0 1 256.6959 125.9328)" class="st5 st3 st4">Seúl</text>
+<text transform="matrix(1 0 0 1 21.3458 343.4528)" class="st5 st3 st4">Bangkok</text>
+<text transform="matrix(1 0 0 1 103.3257 253.3228)" class="st2 st3 st4">Hong Kong</text>
+</svg>
