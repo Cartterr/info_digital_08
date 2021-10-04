@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg data-name="Layer 1" viewBox="0 0 960 425" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<style>.cls-1,.cls-2,.cls-8,.cls-9{isolation:isolate;}.cls-2,.cls-8,.cls-9{font-size:14px;}.cls-2{fill:#383838;font-family:Arial-BoldMT, Arial;font-weight:700;}.cls-3{letter-spacing:-0.04em;}.cls-4{letter-spacing:-0.02em;}.cls-5{opacity:0.5;}.cls-6,.cls-8{fill:#231f20;}.cls-6{stroke:#231f20;stroke-miterlimit:10;}.cls-7{fill:none;stroke:#000;stroke-linecap:square;stroke-miterlimit:1;stroke-width:0.5px;}.cls-8,.cls-9{font-family:ArialMT, Arial;}.cls-9{fill:#77787b;}.cls-10{letter-spacing:-0.11em;}</style>
+<style>.cls-1,.cls-2,.cls-8,.cls-9{isolation:isolate;}.cls-2,.cls-8,.cls-9{font-size:14px;}.cls-2{fill:#383838;font-family:Arial, Arial;font-weight:700;}.cls-3{letter-spacing:-0.04em;}.cls-4{letter-spacing:-0.02em;}.cls-5{opacity:0.5;}.cls-6,.cls-8{fill:#231f20;}.cls-6{stroke:#231f20;stroke-miterlimit:10;}.cls-7{fill:none;stroke:#000;stroke-linecap:square;stroke-miterlimit:1;stroke-width:0.5px;}.cls-8,.cls-9{font-family:ArialMT, Arial;}.cls-9{fill:#77787b;}.cls-10{letter-spacing:-0.11em;}</style>
 </defs>
 <image class="cls-1" transform="translate(0 -26) scale(.5)" width="1920" height="926" xlink:href="../img/time-hkg.svg"/>
 <text class="cls-2" transform="translate(638.41 36.78)">23:00 horas LUNES 12 DE<tspan class="cls-3" x="171.96" y="0"></tspan><tspan x="175.33" y="0">AGOS</tspan><tspan class="cls-4" x="216.56" y="0">T</tspan><tspan x="224.85" y="0">O</tspan></text>
