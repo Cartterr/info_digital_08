@@ -23,7 +23,7 @@
 	.st19{fill:url(#b);}
 	.st20{fill:url(#a);}
 </style>
-<image transform="matrix(.2825 0 0 .2825 0 50.939)" width="1200" height="1497" enable-background="new" overflow="visible" xlink:href="../hk-flights.png">
+<image transform="matrix(.2825 0 0 .2825 0 50.939)" width="1200" height="1497" enable-background="new" overflow="visible" xlink:href="../img/hk-flights.svg">
 </image>
 <text class="st0 st1 st2" transform="translate(141.88 145.68)">SHENZHEN</text>
 <text class="st3 st4 st5" transform="translate(46.895 32.302)">SALIDAS DE 12 A 13 HORAS</text>
