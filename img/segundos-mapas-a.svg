@@ -1,115 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg enable-background="new 0 0 339 491.8" version="1.1" viewBox="0 0 339 491.8" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 339 491.8" style="enable-background:new 0 0 339 491.8;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.5;enable-background:new    ;}
 	.st1{font-family:'ArialMT';}
 	.st2{font-size:12px;}
-	.st3{opacity:0.5;fill:#383838;enable-background:new    ;}
-	.st4{font-family:'Arial-BoldMT';}
-	.st5{font-size:14px;}
-	.st6{opacity:0.5;fill:none;stroke:#FF513F;stroke-width:1.5;stroke-miterlimit:10;enable-background:new    ;}
-	.st7{fill:none;stroke:#C4C5C7;stroke-width:2;stroke-miterlimit:10;}
-	.st8{font-size:16px;}
-	.st9{opacity:0.5;}
-	.st10{enable-background:new    ;}
-	.st11{font-family:'Arial-ItalicMT';}
-	.st12{font-size:10px;}
-	.st13{fill:none;stroke:url(#h);stroke-width:4;stroke-miterlimit:10;}
-	.st14{fill:url(#g);}
-	.st15{fill:none;stroke:url(#f);stroke-width:4;stroke-miterlimit:10;}
-	.st16{fill:url(#e);}
-	.st17{fill:none;stroke:url(#d);stroke-width:4;stroke-miterlimit:10;}
-	.st18{fill:url(#c);}
-	.st19{fill:url(#b);}
-	.st20{fill:url(#a);}
+	.st3{opacity:0.5;fill:none;stroke:#FF513F;stroke-width:1.5;stroke-miterlimit:10;enable-background:new    ;}
+	.st4{fill:none;stroke:#C4C5C7;stroke-width:2;stroke-miterlimit:10;}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:16px;}
+	.st7{opacity:0.5;}
+	.st8{font-family:'Arial-ItalicMT';}
+	.st9{font-size:10px;}
+	.st10{fill:none;stroke:url(#SVGID_1_);stroke-width:4;stroke-miterlimit:10;}
+	.st11{fill:url(#SVGID_2_);}
+	.st12{fill:none;stroke:url(#SVGID_3_);stroke-width:4;stroke-miterlimit:10;}
+	.st13{fill:url(#SVGID_4_);}
+	.st14{fill:none;stroke:url(#SVGID_5_);stroke-width:4;stroke-miterlimit:10;}
+	.st15{fill:url(#SVGID_6_);}
+	.st16{fill:url(#SVGID_7_);}
+	.st17{fill:url(#SVGID_8_);}
 </style>
-<image transform="matrix(.2825 0 0 .2825 0 50.939)" width="1200" height="1497" enable-background="new" overflow="visible" xlink:href="../img/hk-flights.svg">
+<image style="overflow:visible;enable-background:new    ;" width="1200" height="1497" xlink:href="hk-flights.png"  transform="matrix(0.2825 0 0 0.2825 0 50.939)">
 </image>
-<text class="st0 st1 st2" transform="translate(141.88 145.68)">SHENZHEN</text>
-<text class="st3 st4 st5" transform="translate(46.895 32.302)">SALIDAS DE 12 A 13 HORAS</text>
-<path class="st6" d="m152.5 250.8-45.3 16.8c-4.8 1.8-7.5 7-6.2 11.9l51.5 194.4"/>
-<path class="st6" d="m152.5 250.8-44.5 17.6c-4.8 1.9-7.3 7.1-5.9 12l54.4 193.5"/>
-<path class="st6" d="M152.5,251.9l-44.4,16.7c-4.8,1.8-7.4,6.9-6.2,11.8l9,35.9c1.4,5.7,7.4,8.9,12.9,7.1l24.1-8.1  c2-0.7,3.7-2,5-3.7L339,53"/>
-<path class="st6" d="M152.5,251.9l-45.1,15.7c-4.9,1.7-7.7,7-6.4,12l10.1,38.1c1.4,5.1,6.4,8.3,11.6,7.2l25.8-5.1  c2.6-0.5,4.8-2,6.3-4.1L339,57"/>
-<path class="st6" d="M152.5,250.8L108.7,268c-4.6,1.8-7.2,6.8-6.1,11.6l11.1,47.5c0.7,2.8,2.5,5.2,5.1,6.6L339,449.9"/>
-<path class="st6" d="m152.5 250.8-44.5 17.6c-4.8 1.9-7.3 7.1-5.9 12l58.4 193.5"/>
+<text transform="matrix(1 0 0 1 141.88 145.68)" class="st0 st1 st2">SHENZHEN</text>
+<path class="st3" d="M152.5,250.8l-45.3,16.8c-4.8,1.8-7.5,7-6.2,11.9l51.5,194.4"/>
+<path class="st3" d="M152.5,250.8L108,268.4c-4.8,1.9-7.3,7.1-5.9,12l54.4,193.5"/>
+<path class="st3" d="M152.5,251.9l-44.4,16.7c-4.8,1.8-7.4,6.9-6.2,11.8l9,35.9c1.4,5.7,7.4,8.9,12.9,7.1l24.1-8.1
+	c2-0.7,3.7-2,5-3.7L339,53"/>
+<path class="st3" d="M152.5,251.9l-45.1,15.7c-4.9,1.7-7.7,7-6.4,12l10.1,38.1c1.4,5.1,6.4,8.3,11.6,7.2l25.8-5.1
+	c2.6-0.5,4.8-2,6.3-4.1L339,57"/>
+<path class="st3" d="M152.5,250.8L108.7,268c-4.6,1.8-7.2,6.8-6.1,11.6l11.1,47.5c0.7,2.8,2.5,5.2,5.1,6.6L339,449.9"/>
+<path class="st3" d="M152.5,250.8L108,268.4c-4.8,1.9-7.3,7.1-5.9,12l58.4,193.5"/>
 <circle cx="152.3" cy="250.9" r="3"/>
-<path class="st7" d="m190.4 183.6 5.1-2.1 1.8-2.1 2.6-4.1 2.1-3.2 2.6-0.5 2.9 0.2 4 2.4 5-2.6 6.9-2.6 2.1-4.1 3.7-1.5 4.7 1.5 4.5-0.3 4.5 0.9 7.2 1.9"/>
-
-	<text class="st4 st8" transform="translate(126.59 240.57)">Aeropuerto</text>
-
-<g class="st9">
-	<text class="st10" transform="translate(226.19 441)"><tspan class="st11 st12" x="0" y="0">MAR DEL</tspan><tspan class="st11 st12" x="-13.6" y="12">SUR DE CHINA</tspan></text>
+<path class="st4" d="M190.4,183.6l5.1-2.1l1.8-2.1l2.6-4.1l2.1-3.2l2.6-0.5l2.9,0.2l4,2.4l5-2.6l6.9-2.6l2.1-4.1l3.7-1.5l4.7,1.5
+	l4.5-0.3l4.5,0.9l7.2,1.9"/>
+<text transform="matrix(1 0 0 1 126.59 240.57)" class="st5 st6">Aeropuerto</text>
+<g class="st7">
+	<text transform="matrix(1 0 0 1 226.19 441)" class="st8 st9">MAR DEL</text>
+	<text transform="matrix(1 0 0 1 212.59 453)" class="st8 st9">SUR DE CHINA</text>
 </g>
-<g class="st9">
-
-
-			<linearGradient id="h" x1="116.5" x2="116.5" y1="9032.8" y2="8987.8" gradientTransform="translate(0 -8600)" gradientUnits="userSpaceOnUse">
-			<stop offset="0"/>
-			<stop stop-opacity=".1223" offset=".8777"/>
-			<stop stop-opacity="0" offset="1"/>
-		</linearGradient>
-		<line class="st13" x1="111.3" x2="121.7" y1="388.4" y2="424"/>
-
-
-				<linearGradient id="g" x1="121.25" x2="121.25" y1="9032.8" y2="8987.8" gradientTransform="translate(0 -8600)" gradientUnits="userSpaceOnUse">
-				<stop offset="0"/>
-				<stop stop-opacity=".1223" offset=".8777"/>
-				<stop stop-opacity="0" offset="1"/>
-			</linearGradient>
-			<polygon class="st14" points="115.5 424 124.1 432.3 127 420.6"/>
-
-
+<g class="st7">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="116.5" y1="-8538.7998" x2="116.5" y2="-8493.7998" gradientTransform="matrix(1 0 0 -1 0 -8106)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.8777" style="stop-color:#000000;stop-opacity:0.1223"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<line class="st10" x1="111.3" y1="388.4" x2="121.7" y2="424"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="121.25" y1="-8538.7998" x2="121.25" y2="-8493.7998" gradientTransform="matrix(1 0 0 -1 0 -8106)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.8777" style="stop-color:#000000;stop-opacity:0.1223"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<polygon class="st11" points="115.5,424 124.1,432.3 127,420.6 	"/>
 </g>
-<g class="st9">
-
-
-			<linearGradient id="f" x1="277.13" x2="244.83" y1="9011.1" y2="8979.7" gradientTransform="translate(0 -8600)" gradientUnits="userSpaceOnUse">
-			<stop offset="0"/>
-			<stop stop-opacity=".1223" offset=".8777"/>
-			<stop stop-opacity="0" offset="1"/>
-		</linearGradient>
-		<line class="st15" x1="241.6" x2="274.4" y1="383.8" y2="401.2"/>
-
-
-				<linearGradient id="e" x1="280.44" x2="248.13" y1="9007.7" y2="8976.3" gradientTransform="translate(0 -8600)" gradientUnits="userSpaceOnUse">
-				<stop offset="0"/>
-				<stop stop-opacity=".1223" offset=".8777"/>
-				<stop stop-opacity="0" offset="1"/>
-			</linearGradient>
-			<polygon class="st16" points="270.1 405.6 282 405.2 275.7 395.1"/>
-
-
+<g class="st7">
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="277.1315" y1="-8517.0977" x2="244.8315" y2="-8485.6982" gradientTransform="matrix(1 0 0 -1 0 -8106)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.8777" style="stop-color:#000000;stop-opacity:0.1223"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<line class="st12" x1="241.6" y1="383.8" x2="274.4" y2="401.2"/>
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="280.4512" y1="-8513.6885" x2="248.1412" y2="-8482.2881" gradientTransform="matrix(1 0 0 -1 0 -8106)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.8777" style="stop-color:#000000;stop-opacity:0.1223"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<polygon class="st13" points="270.1,405.6 282,405.2 275.7,395.1 	"/>
 </g>
-<g class="st9">
-
-
-			<linearGradient id="d" x1="327.18" x2="292.97" y1="8704.3" y2="8733.6" gradientTransform="translate(0 -8600)" gradientUnits="userSpaceOnUse">
-			<stop offset="0"/>
-			<stop stop-opacity=".1223" offset=".8777"/>
-			<stop stop-opacity="0" offset="1"/>
-		</linearGradient>
-		<line class="st17" x1="296.8" x2="317.1" y1="137.1" y2="106.1"/>
-
-
-				<linearGradient id="c" x1="324.11" x2="289.9" y1="8700.7" y2="8730" gradientTransform="translate(0 -8600)" gradientUnits="userSpaceOnUse">
-				<stop offset="0"/>
-				<stop stop-opacity=".1223" offset=".8777"/>
-				<stop stop-opacity="0" offset="1"/>
-			</linearGradient>
-			<polygon class="st18" points="321.1 110.8 321.8 98.9 311.1 104.3"/>
-
-
+<g class="st7">
+	
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="327.1671" y1="-8210.2852" x2="292.9571" y2="-8239.585" gradientTransform="matrix(1 0 0 -1 0 -8106)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.8777" style="stop-color:#000000;stop-opacity:0.1223"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<line class="st14" x1="296.8" y1="137.1" x2="317.1" y2="106.1"/>
+	
+		<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="324.1048" y1="-8206.6943" x2="289.8948" y2="-8235.9941" gradientTransform="matrix(1 0 0 -1 0 -8106)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.8777" style="stop-color:#000000;stop-opacity:0.1223"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<polygon class="st15" points="321.1,110.8 321.8,98.9 311.1,104.3 	"/>
 </g>
-<linearGradient id="b" x1="-6150.1" x2="-6150.1" y1="6791" y2="6757.2" gradientTransform="matrix(6.1232e-17 -1 1 6.1232e-17 -6452.3 -5725.7)" gradientUnits="userSpaceOnUse">
-	<stop stop-color="#fff" offset="0"/>
-	<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="-7233.0503" y1="-6794" x2="-7233.0503" y2="-6760.1997" gradientTransform="matrix(6.123200e-17 -1 -1 -6.123200e-17 -6455.2998 -6808.7002)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
 </linearGradient>
-<polygon class="st19" points="304.9 362.4 304.9 486.3 338.7 486.3 338.7 362.4"/>
-<linearGradient id="a" x1="-3269.6" x2="-3269.6" y1="6958" y2="6924.2" gradientTransform="translate(3411.4 -6483.1)" gradientUnits="userSpaceOnUse">
-	<stop stop-color="#fff" offset="0"/>
-	<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+<polygon class="st16" points="304.9,362.4 304.9,486.3 338.7,486.3 338.7,362.4 "/>
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-3269.5498" y1="-6464" x2="-3269.5498" y2="-6430.2002" gradientTransform="matrix(1 0 0 -1 3411.3999 -5989.1001)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
 </linearGradient>
-<polygon class="st20" points="203.8 441.1 79.9 441.1 79.9 474.9 203.8 474.9"/>
-<text class="st0 st4 st8" transform="translate(208.13 317.16)">HONG KONG</text>
+<polygon class="st17" points="203.8,441.1 79.9,441.1 79.9,474.9 203.8,474.9 "/>
+<text transform="matrix(1 0 0 1 208.13 317.16)" class="st0 st5 st6">HONG KONG</text>
 </svg>
